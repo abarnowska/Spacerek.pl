@@ -11,13 +11,15 @@
 	background-size: cover;
 	background-position: center;
 }
-
-h1 {
+.herotext {
 	position: absolute;
 	margin: 0;
 	padding: 1em;
 	bottom: 0;
 	right: 0;
-    font-size: 6em
-;
+    text-align: center;
+}
+
+h1 {
+	font-size: 6em;
 }
