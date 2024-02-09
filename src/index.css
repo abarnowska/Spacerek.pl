@@ -1,0 +1,20 @@
+/* :root {
+  font-family: Pacifico;
+  line-height: 1.5;
+  font-weight: 400;
+} */
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: "Pacifico", cursive;
+	font-weight: 200;
+}
