@@ -25,7 +25,21 @@ h1 {
 }
 
 h2 {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 500;	
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-size: 2em;
 }
 
+@media (min-width: 768px) {
+	.header {
+		height: 400px;
+	}
+
+	.heroimg {
+		background-size: cover;
+	}
+
+	h1 {
+		font-size: 7em;
+	}
+}
