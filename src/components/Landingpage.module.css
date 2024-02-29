@@ -8,18 +8,24 @@
 	height: 100%;
 	width: 100%;
 	background-image: url("../assets/img/hero-rain.jpg");
-	background-size: cover;
 	background-position: center;
 }
 .herotext {
 	position: absolute;
-	margin: 0;
+	margin: 1em;
 	padding: 1em;
-	bottom: 0;
+	top: 0;
 	right: 0;
-    text-align: center;
+	height: 100vh;
+	text-align: center;
 }
 
 h1 {
-	font-size: 6em;
+	font-size: 5em;
 }
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;	
+}
+
