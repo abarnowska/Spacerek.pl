@@ -8,6 +8,7 @@ export default function Landingpage() {
 				<h1>Spacerek.pl</h1>
 				<h2>SPACERUJ ZE SWOIM MALUCHEM ZDROWO I BEZPIECZNIE</h2>
                 </div>
+			<div className={classes.heroimg_shadow}></div>
 			</div>
 		</div>
 	);
