@@ -1,6 +1,6 @@
 # Spacerek.pl
 
-This app is created by Angelika Barnowska-Nawara and Karolina Reseman. We are created this app to help parents decide how to dress their little children before going for a walk. The creation process is still in progress.
+This app is created by Angelika Barnowska-Nawara. I have created this app to help parents decide how to dress their little children before going for a walk. The creation process is still in progress.
 
 # It is said that there is no bad weather - there are only bad clothes...
 

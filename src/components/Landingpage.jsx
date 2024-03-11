@@ -5,6 +5,7 @@ export default function Landingpage() {
 		<div className={classes.header}>
 			<div className={classes.heroimg}>
                 <div className={classes.herotext}>
+				{/* <FontAwesomeIcon icon="fa-solid fa-umbrella" /> */}
 				<h1>Spacerek.pl</h1>
 				<h2>SPACERUJ ZE SWOIM MALUCHEM ZDROWO I BEZPIECZNIE</h2>
                 </div>
